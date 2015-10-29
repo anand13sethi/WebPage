@@ -1,0 +1,79 @@
+body{
+    line-height:1.8;
+    letter-spacing: 2px;
+}
+.navbar{
+    font-family : Verdana;
+    font-size : 1.2em;
+    background-color : #6f5499;
+    letter-spacing : 4px;
+    line-height: 1.4;
+    border-color:transparent;
+}
+.jumbotron{
+    background-color:#6f5499;
+    color:white;
+    font-family: Verdana;
+    padding-top : 7%;
+    padding-bottom: 6%;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:active{
+    border-radius:7px;
+    background-color: #282828;
+}
+form>input{
+    border-radius: 6px;
+    padding:7px;
+    font-family : Verdana;
+    font-size= 1.2em;
+}
+.btn-default{
+    padding:0.4%;
+    width: 7%;
+    border: solid #fff 1px;
+    border-radius: 7px;
+    background-color: #6f5499;
+    color:#fff;
+    font-size:1.2em;
+}
+.btn-default:hover, .btn-default:active, .btn-default:focus{
+    color:#6f5499;
+    background-color:#fff;
+    border: solid #6f5499 1px;
+}
+h3{
+    padding-top: 0.5%;
+    padding-bottom: 0.9%;
+}
+#first{
+    font-size:1.4em;
+    padding-top:7%;
+    padding-bottom:8%;
+    letter-spacing:2px;
+}
+#second{
+    font-size:1.2em;
+    padding-bottom:3%;
+}
+.glyphicon-signal,.glyphicon-globe{
+    font-size:20em;
+    padding-top:5%;
+    padding-left:7%;
+    color: #6f5499;
+}
+#about{
+    padding-bottom:4%;
+    padding-top:4%;
+}
+#about .btn-default{
+    width:20%;
+    padding:2%;
+    font-size:1.8em;
+    font-weight:lighter;
+    border-radius:14px;
+}
+#about1{
+    padding-top:9%;
+    padding-bottom: 3%;
+    background-color:#E4E4E4;
+}
